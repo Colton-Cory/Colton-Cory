@@ -1,3 +1,3 @@
-My name is Colton Cory
+My name is Colton Cory.
 I am a college student majoring in Electrical Computer Engineering at Oreogn State University.
-I am part of my schools robotics club, where we go to anual competitions to compete with teams across the world
+Besides working projects for classes, I am also a member of my schools robtoics club where I collaborate with lots of people to create and upgrage or mars rover inspired robot to compete in annual robotics competitions with teams from around the world.
